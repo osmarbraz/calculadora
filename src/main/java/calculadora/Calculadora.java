@@ -14,6 +14,7 @@ public class Calculadora {
 
     /**
      * Construtor com argumento.
+     *
      * @param valorA Um valor real.
      * @param valorB Um valor real.
      */
@@ -40,6 +41,7 @@ public class Calculadora {
 
     /**
      * Realiza a adição.
+     *
      * @return Um valor real.
      */
     public double getAdicao() {
@@ -48,6 +50,7 @@ public class Calculadora {
 
     /**
      * Realiza a subtração
+     *
      * @return Um valor real.
      */
     public double getSubtracao() {
@@ -56,6 +59,7 @@ public class Calculadora {
 
     /**
      * Realiza o produto.
+     *
      * @return Um valor real.
      */
     public double getProduto() {
@@ -64,6 +68,7 @@ public class Calculadora {
 
     /**
      * Realiza a divisão.
+     *
      * @return Um valor real.
      */
     public double getDivisao() {
