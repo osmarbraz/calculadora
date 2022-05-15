@@ -2,7 +2,7 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=calculadora&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=calculadora)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=calculadora&metric=coverage)](https://sonarcloud.io/component_measures?id=calculadora&metric=coverage)
 
-# Calculado com CI.
+# Calculadora com CI.
 
 Utiliza 3 ambientes:
 - dev - Desenvolvimento
