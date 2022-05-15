@@ -14,5 +14,3 @@ public class TesteSuite {
         return new JUnit4TestAdapter(TesteSuite.class);
     }
 }
-
-
