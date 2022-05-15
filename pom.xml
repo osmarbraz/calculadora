@@ -53,8 +53,7 @@
                 <artifactId>jacoco-maven-plugin</artifactId>
                 <version>0.8.6</version>
                 <configuration>                    
-                    <excludes>                        
-                        <exclude>**/*Principal.*</exclude>                        
+                    <excludes>                                               
                     </excludes>
                 </configuration>
                 <executions>
