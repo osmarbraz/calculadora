@@ -9,10 +9,10 @@ Utiliza 3 ambientes:
 - hmg - Homologação
 - prd - Produção
 
-Pipeline 
-- dev - Compilação 
-- hmg - Compilação, Testes, Análise Código, Cobertura Código
-- prd - Empacotamento
+Pipeline de CI:
+- dev - Compilação e testes.
+- hmg - Análise e cobertura d código.
+- prd - Empacotamento.
 
 <br>
 - Utiliza o Apache Maven para a automatização da construção.<br>
