@@ -30,6 +30,9 @@ public class Principal {
                 case 5:
                     JOptionPane.showMessageDialog(null, "Divisão: " + calculadora.getDivisao());
                     break;
+                default:
+                    JOptionPane.showMessageDialog(null, "Alternativa inválida!");
+                    break;
             }
         }
     }
