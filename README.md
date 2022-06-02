@@ -11,7 +11,7 @@ Utiliza 3 ambientes:
 
 Pipeline de CI:
 - dev - Compilação e testes.
-- hmg - Análise e cobertura d código.
+- hmg - Análise e cobertura do código.
 - prd - Empacotamento.
 
 <br>
